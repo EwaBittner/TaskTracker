@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting at Uni",
+      "day": "13.03.2022 at 10am",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Food shopping",
+      "day": "20.03.2022 at 3:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Zrob bupe",
+      "day": "todag",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
